@@ -2,4 +2,4 @@
 
 ## Authors
 
-- [@Sparsh Dutta](sparsh.dtt@gmail.com)
+- [@Sparsh Dutta](https://github.com/llFireHawkll)
